@@ -1,0 +1,1 @@
+void decompress_func(string decompress_fname, string output_fname);

@@ -1,0 +1,1 @@
+void compress_to_file(string to_compress_fname, string output_fname);
